@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=papercodeIN.DEBIX" height="20" />
+
 <h1 align = "center">🌟Debix🌟</h1>
 
 ---
