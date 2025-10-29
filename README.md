@@ -26,8 +26,8 @@
 | 🔧 Product | 🔗 Quick Links |
 |-----------|----------------|
 | **📟 DEBIX Model C** | [🛒 Buy Now](https://debix.io/product/debix-model-c/) |
-| **📟 DEBIX LVDS Display** | [🛒 Buy Now](https://debix.io/product/debix-lvds-displays/) |
-| **📟 DEBIX Camera Module** | [🛒 Buy Now](https://debix.io/product/debix-camera-modules/) |
+| **🖥️ DEBIX LVDS Display** | [🛒 Buy Now](https://debix.io/product/debix-lvds-displays/) |
+| **📸 DEBIX Camera Module** | [🛒 Buy Now](https://debix.io/product/debix-camera-modules/) |
 
 ---
 
