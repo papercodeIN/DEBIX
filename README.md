@@ -35,9 +35,9 @@
 
 | No. | Title                                      | Watch Link                                                                 | Project Link                                                                 |
 |-----|--------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| 1   | ✅Unboxing Debix Model C - Industrial Grade Single Board Computer - 2Gb RAM - 32Gb eMMC | [▶️ Watch](https://youtube.com/shorts/oraGIWKlJdg) |  |
-| 2   | ✅ DEBIX 500A Camera Module Unboxing – Compact Power for Embedded Vision | [▶️ Watch](https://youtube.com/shorts/UgcybnmQ4-o) | |
-| 3   | ✅ Built for Harsh Environments! DEBIX TD070A Touchscreen Unboxing | [▶️ Watch](https://youtube.com/shorts/Wx3lKiBqB5U) |  |
+| 1   | ✅ Unboxing Debix Model C | [▶️ Watch](https://youtube.com/shorts/oraGIWKlJdg) |  |
+| 2   | ✅ DEBIX 500A Camera Module Unboxing | [▶️ Watch](https://youtube.com/shorts/UgcybnmQ4-o) | |
+| 3   | ✅ DEBIX TD070A Touchscreen Unboxing | [▶️ Watch](https://youtube.com/shorts/Wx3lKiBqB5U) |  |
 
 ---
 
