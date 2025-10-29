@@ -21,14 +21,32 @@
 
 ---
 
-$\color{Green}\Huge{\textbf{Shorts}}$
+# 🔴 **Featured Debix Products**
 
-1. ✅Unboxing Debix Model C - Industrial Grade Single Board Computer - 2Gb RAM - 32Gb eMMC [[Watch]](https://youtube.com/shorts/oraGIWKlJdg)
-2. ✅Unboxing DEBIX Industrial Grade Touchscreen Display [Watch]
-3. ✅Unboxing DEBIX Camera Module 500A [Watch]
+| 🔧 Product | 🔗 Quick Links |
+|-----------|----------------|
+| **📟 DEBIX Model C** | [🛒 Buy Now](https://debix.io/product/debix-model-c/) |
+| **🖥️ DEBIX LVDS Display** | [🛒 Buy Now](https://debix.io/product/debix-lvds-displays/) |
+| **📸 DEBIX Camera Module** | [🛒 Buy Now](https://debix.io/product/debix-camera-modules/) |
 
-##
-$\color{Green}\Huge{\textbf{Getting Started Guide}}$
+---
+
+## 🎬 Shorts Video Showcase
+
+| No. | Title                                      | Watch Link                                                                 | Project Link                                                                 |
+|-----|--------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 1   | ✅ Unboxing Debix Model C | [▶️ Watch](https://youtube.com/shorts/oraGIWKlJdg) |  |
+| 2   | ✅ DEBIX 500A Camera Module Unboxing | [▶️ Watch](https://youtube.com/shorts/UgcybnmQ4-o) | |
+| 3   | ✅ DEBIX TD070A Touchscreen Unboxing | [▶️ Watch](https://youtube.com/shorts/Wx3lKiBqB5U) |  |
+
+---
+
+## 🎬 Getting Started Guide
+| No. | Title                                      | Watch Link                                                                 | Project Link                                                                 |
+|-----|--------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 1   |  | |  |
+| 1   |  | |  |
+| 1   |  | |  |
 
 
 ---
