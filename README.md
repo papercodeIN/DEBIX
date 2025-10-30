@@ -56,10 +56,10 @@
 ## 🎬 Getting Started Guide
 | No. | Title                                      | Watch Link                                                                 | Project Link                                                                 |
 |-----|--------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| 1   | ⏳ Flash Ubutnu Server Image to eMMC Storage of Devbix Model C + TD070A Touchscreen Integration | [▶️ Watch] |  |
-| 2   | ⏳ Flash Ubutnu Server Image to SD Card for Debix Model C + TD070A Touchscreen Integration | [▶️ Watch] |  |
-| 3   | ⏳ Flash Debian 12 Server Image to SD Card for Debix Model C + TD070A Touchscreen Integration | [▶️ Watch] |  |
-| 4   | ⏳ Flash Debina 12 Server Image to eMMC Storage of Devbix Model C + TD070A Touchscreen Integration | [▶️ Watch] |  |
+| 1   | ⏳ Flash Ubutnu Server Image to eMMC Storage of Devbix Model C | [▶️ Watch] |  |
+| 2   | ⏳ Flash Ubutnu Server Image to SD Card for Debix Model C | [▶️ Watch] |  |
+| 3   | ⏳ Flash Debian 12 Server Image to SD Card for Debix Model C | [▶️ Watch] |  |
+| 4   | ⏳ Flash Debina 12 Server Image to eMMC Storage of Devbix Model C | [▶️ Watch] |  |
 | 5   | ⏳ How to Install Node-RED in Debix Model C | [▶️ Watch] |  |
 | 6   | ⏳ Setup Debix 500A Camera Module with Debix Model C | [▶️ Watch] |  |
 | 7   | ⏳ Control GPIO of Debix Model C (using Python or Node-RED) | [▶️ Watch] |  |
