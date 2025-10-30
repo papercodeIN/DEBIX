@@ -49,6 +49,7 @@
 | 1   | ✅ Unboxing Debix Model C | [▶️ Watch](https://youtube.com/shorts/oraGIWKlJdg) |  |
 | 2   | ✅ DEBIX 500A Camera Module Unboxing | [▶️ Watch](https://youtube.com/shorts/UgcybnmQ4-o) | |
 | 3   | ✅ DEBIX TD070A Touchscreen Unboxing | [▶️ Watch](https://youtube.com/shorts/Wx3lKiBqB5U) |  |
+| 4   | ⏳ DEBIX Model C + TD070A Touchscreen Seamless Integration Showcase | [▶️ Watch]() |  |
 
 ---
 
