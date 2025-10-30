@@ -56,9 +56,12 @@
 ## 🎬 Getting Started Guide
 | No. | Title                                      | Watch Link                                                                 | Project Link                                                                 |
 |-----|--------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| 1   |  | |  |
-| 1   |  | |  |
-| 1   |  | |  |
+| 1   | Flash Ubutnu Server Image to eMMC Storage of Devbix Model C | |  |
+| 2   | Flash Ubutnu Server Image to SD Card for Debix Model C | |  |
+| 3   | Flash Debian 12 Server Image to SD Card for Debix Model C | |  |
+| 4   | Flash Debina 12 Server Image to eMMC Storage of Devbix Model C | |  |
+| 5   | How to Install Node-RED in Debix Model C | |  |
+| 6   | Control GPIO of Debix Model C (using Python or Node-RED) | |  |
 
 
 ---
