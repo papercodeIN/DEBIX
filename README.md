@@ -33,11 +33,11 @@
 
 # 📀 **Debix OS for Model C**
 
-| OS | 💾 SD | 📱eMMC | 
-|-----------|----------------|----------------|
-| **🐧Ubuntu 22.04 Server** | [📥 Download](https://debix-oss.oss-cn-hongkong.aliyuncs.com/Model%20C/Debix-ModelC-SD_START-UEFI-U22.04-V1.01-20240827.zip) | [📥 Download](https://debix-oss.oss-cn-hongkong.aliyuncs.com/Model%20C/Debix-ModelC-SD_UPGRADE-U22.04-V1.01_20240827.zip) |
-| **☘️Yocto-L6.1.36** | [📥 Download](https://debix-oss.oss-cn-hongkong.aliyuncs.com/Model%20C/Debix-ModelC-SD_START-Y6.1.36-V1.0.3_20240914.zip) | [📥 Download](https://debix-oss.oss-cn-hongkong.aliyuncs.com/Model%20C/Debix-ModelC-SD_UPGRADE-Y6.1.36-V1.0.3_20240914.zip) |
-| **🍥 Debian12 Server** | [📥 Download](https://debix-oss.oss-cn-hongkong.aliyuncs.com/Model%20C/iMX93-Debian12-Model-C_V1.1_20241203.zip) | [📥 Download](https://debix-oss.oss-cn-hongkong.aliyuncs.com/Model%20C/uuu.zip) |
+| OS | 💾 SD | 📱eMMC | Username | Password |
+|-----------|----------------|----------------|----------------|----------------|
+| **🐧Ubuntu 22.04 Server** | [📥 Download](https://debix-oss.oss-cn-hongkong.aliyuncs.com/Model%20C/Debix-ModelC-SD_START-UEFI-U22.04-V1.01-20240827.zip) | [📥 Download](https://debix-oss.oss-cn-hongkong.aliyuncs.com/Model%20C/Debix-ModelC-SD_UPGRADE-U22.04-V1.01_20240827.zip) | | |
+| **☘️Yocto-L6.1.36** | [📥 Download](https://debix-oss.oss-cn-hongkong.aliyuncs.com/Model%20C/Debix-ModelC-SD_START-Y6.1.36-V1.0.3_20240914.zip) | [📥 Download](https://debix-oss.oss-cn-hongkong.aliyuncs.com/Model%20C/Debix-ModelC-SD_UPGRADE-Y6.1.36-V1.0.3_20240914.zip) | | |
+| **🍥 Debian12 Server** | [📥 Download](https://debix-oss.oss-cn-hongkong.aliyuncs.com/Model%20C/iMX93-Debian12-Model-C_V1.1_20241203.zip) | [📥 Download](https://debix-oss.oss-cn-hongkong.aliyuncs.com/Model%20C/uuu.zip) | | |
 
 ---
 
